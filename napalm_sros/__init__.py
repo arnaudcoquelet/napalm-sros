@@ -14,3 +14,5 @@
 
 """napalm-sros package."""
 from sros import SRosDriver
+
+__all__ = ['SRosDriver']
